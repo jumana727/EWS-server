@@ -1,0 +1,21 @@
+{
+  "name": "ews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "base64url": "^3.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsrsasign": "^10.4.1",
+    "localStorage": "^1.0.4",
+    "nodemon": "^2.0.13"
+  }
+}
